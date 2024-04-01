@@ -9,6 +9,13 @@ LICENSE: [MIT](./license.md)
 ### Содержание
 1. [Что такое Git](./baza.md)
 2. [Git add](./add.md)
+3. [Git status](./status.md)
+4. [Git commit](./commit.md)
+5. [Git branch](./branch.md)
+6. [Git merge](./merge.md)
+7. [Git push](./push.md)
+8. [.gitignore](./ignore.md)
+9. [Сделали проект и куда его?](./hub.md)
 
 ---
 
