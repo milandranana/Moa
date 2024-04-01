@@ -7,7 +7,7 @@ LICENSE: [MIT](./license.md)
 ---
 
 ### Содержание
-1. Что то
+1. [Что такое Git](./baza.md)
 2. [Git add](./add.md)
 
 ---
